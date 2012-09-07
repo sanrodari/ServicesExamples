@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">ServicesExamples</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">ServicesExamples</string>
+    <string name="load_tweets">Cargar tweets Iniciado</string>
+    <string name="load_tweets_binder">Cargar tweets Binder</string>
+    <string name="load_tweets_messenger">Cargar tweets Messenger</string>
+    <string name="title_activity_tweet_list">TweetList</string>
+    <string name="title_activity_messenger">MessengerActivity</string>
+
+</resources>
